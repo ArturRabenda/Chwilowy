@@ -4,5 +4,6 @@
 public class Arturek {
     private int wiek;
 private int cena;
-int cenaaa ;
+int wzrok;
+int cenaaa;
 }
